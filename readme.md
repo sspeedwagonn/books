@@ -260,6 +260,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The nature of computation (2011)](http://www.nature-of-computation.org/)
 - [📖 Software foundations (2011)](https://softwarefoundations.cis.upenn.edu/current/index.html)
 - [📖 Introduction to data compression (2012)](<https://github.com/gabrieldiego/tg/blob/master/ref/Introduction%20to%20Data%20Compression%20(4th%20Edition).pdf>)
+- [📖 Starting Out with Programming Logic & Design (2019)](https://www.dropbox.com/scl/fi/n55ssi3e61otqwdvj19ou/ProgrammingLogicTextBook.pdf?rlkey=amxapdnqty2yj70g8whr2kayh&dl=0)
 
 ## Computer Systems
 
